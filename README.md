@@ -269,18 +269,6 @@ The application generates downloadable PDF reports containing:
 - Evidence history and case management.
 - Enhanced forensic visualization and investigation analytics.
 
-## Contributors
-
-Developed as a mini-project for the **Cyber Security and Data Forensics** course.
-
-**Department of Computer Engineering**  
-P.E.S. Modern College of Engineering, Pune  
-Savitribai Phule Pune University
-
-## License
-
-This project is developed for academic and educational purposes. You may modify and extend it with appropriate attribution.
-
 ---
 
 **Disclaimer:** This application provides preliminary image forensic indicators and cryptographic evidence verification. Its automated findings should not be treated as conclusive proof of image manipulation or as a substitute for validated forensic investigation procedures.
